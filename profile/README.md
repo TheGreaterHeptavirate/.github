@@ -9,6 +9,6 @@ to earn as much IT experience as possible during High-School.
 
 ## Activities
 
-- [X] [hackheroes](https://hackheroes.pl) competition (waiting for result)
+- [X] [hackheroes](https://hackheroes.pl) competition - [ConstiTutor project](https://github.com/TheGreaterHeptavirate/constitutor)
 - [X] @garnn and @gucio321 took part in the competition [About The Diamond AGH's index](http://diament.agh.edu.pl)
-- [X] Motorola Secure Cup (second part)
+- [X] Motorola Secure Cup (second part) - [Białkomat](https://github.com/thegreaterheptavirate/motorola)
